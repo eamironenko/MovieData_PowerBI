@@ -1,11 +1,11 @@
 # MovieData_PowerBI
 Data analysis was performed on the movie dataset and the results were visualized using PowerBI. 
 ## Table of Context
-[Problem Statement].(#problem-statement)
-[Movie Source].(#movie-source)
-[Tools].(#tools)
-[Data Cleaning].(#data-cleaning)
-[Questions for Data Analysis].(#Questions-for-Data-Analysis)
+[Problem Statement](#problem-statement)
+[Movie Source](#movie-source)
+[Tools](#tools)
+[Data Cleaning](#data-cleaning)
+[Questions for Data Analysis](#Questions-for-Data-Analysis)
 
 ### Problem Statement
 Netflix wants to better understand which movie they should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors and genres. Your task is to build an Excel dashboard that provides insights into this dataset. The dashboard should help identify: 
@@ -34,3 +34,6 @@ Movie data: The primary dataset used for this analysis is the “Movie Data Home
 2. Which top 5 actors were the most successful?
 3. Top 5 movies by Box and Budget?
 4. Seasonality?
+
+### Dashboard
+<img width="1303" height="736" alt="Dashboard PowerBi" src="https://github.com/user-attachments/assets/ec3c4314-166a-4f2d-ba00-59d0c2dc8b6d" />
