@@ -6,6 +6,8 @@ Data analysis was performed on the movie dataset and the results were visualized
 [Tools](#tools)
 [Data Cleaning](#data-cleaning)
 [Questions for Data Analysis](#Questions-for-Data-Analysis)
+[Dashboard](#dashboard)
+[Recomendations](#recommendations)
 
 ### Problem Statement
 Netflix wants to better understand which movie they should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors and genres. Your task is to build an Excel dashboard that provides insights into this dataset. The dashboard should help identify: 
